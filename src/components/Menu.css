@@ -1,0 +1,29 @@
+.menu {
+  background-color: #00695c;
+  padding: 1rem 2rem;
+  color: white;
+}
+
+.menu-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.menu-links {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-links li {
+  margin: 8px 0;
+}
+
+.menu-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.menu-links a:hover {
+  text-decoration: underline;
+}
